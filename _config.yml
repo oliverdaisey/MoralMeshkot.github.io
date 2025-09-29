@@ -22,7 +22,7 @@ plugins:
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profilepic01.png"
+  avatar[alt=drawing] { width: 200px; } : "profilepic01.png"
   #profile pic not showing
   name             : "Moral"
   pronouns         : "she/her"
